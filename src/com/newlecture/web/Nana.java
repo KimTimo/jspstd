@@ -24,7 +24,7 @@ public class Nana extends HttpServlet
 		
 		for(int i=0; i<cnt; i++)
 		{
-			out.println((i+1)+": æ»≥Á Servlet!!<br>");
+			out.println((i+1)+": «ÿ¿ß Servlet!!<br>");
 		}
 	}
 
